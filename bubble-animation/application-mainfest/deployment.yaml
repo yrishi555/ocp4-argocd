@@ -22,4 +22,4 @@ spec:
         name: bubble-animation
         env:
         - name: COLOR
-          value: "blue"
+          value: "red"
